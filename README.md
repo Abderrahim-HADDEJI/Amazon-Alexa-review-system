@@ -7,4 +7,4 @@ Therefore, in analyzing the examination of the product, we will indicate whether
 
 As part of this project, we will conduct exploratory data analysis and audit our data. To know if other data are also related to providing comments or only the text that is given by the user who sees this part. And then verify whether another piece is needed with the comments as well.
 
-After that, we will build our model to predict the feedback that we will create our review committee that will give us our kind of feedback.
+After that, we will build our model to predict the feedback that we will create our review committee that will give us the result.
